@@ -1,1 +1,1 @@
-# Multiplication-table
+# Multiplication Table
